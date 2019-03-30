@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1544988362 source:d:\e-books\algorithm\code\algorithms_in_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1544993391 source:d:\e-books\algorithm\code\algorithms_in_c\graph.c
+
+1545487607 source:d:\e-books\algorithm\code\algorithms_in_c\heap.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1552852361 source:d:\e-books\algorithm\code\algorithms_in_c\find_smallest_without_comparison.c
+	<stdio.h>
+
+1552853606 source:d:\e-books\algorithm\code\algorithms_in_c\techgig\find_smallest_without_comparison.c
+	<stdio.h>
+
